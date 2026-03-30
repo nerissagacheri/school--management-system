@@ -1,0 +1,15 @@
+# Root Ignore
+node_modules/
+venv/
+.venv/
+dist/
+.angular/
+.vscode/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
